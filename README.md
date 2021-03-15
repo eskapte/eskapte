@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lhawick's 42 stats](https://badge42.herokuapp.com/api/stats/lhawick)](https://github.com/JaeSeoKim/badge42)
+[![lhawick's 42 stats](https://badge42.herokuapp.com/api/stats/lhawick?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
