@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![lhawick's 42 stats](https://badge42.herokuapp.com/api/stats/lhawick?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eskapte)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Subscripe to my instagram blog --> https://www.instagram.com/kludge_every_day/?hl=ru
