@@ -2,4 +2,4 @@
 
 #### Subscripe to my instagram blog --> https://www.instagram.com/kludge_every_day/?hl=ru
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eskapte&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eskapte&hide=javascript,typescript,c#)](https://github.com/anuraghazra/github-readme-stats)
